@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm Anurag Shettigar 👋
 
-<!--
-**Anoteros09/Anoteros09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Developer | 🌐 React.js & Julia Enthusiast | ✈️ Full-Stack Engineer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+- 💻 I’m currently working on resource planning applications for airline operations.
+- 🌱 I’m learning advanced Julia optimizations and Japanese 🇯🇵.
+- 🏆 Fun fact: I improved operational efficiency by 15% at United Airlines.
+
+---
+
+### Tech Stack
+
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
+![Julia](https://img.shields.io/badge/-Julia-9558B2?logo=julia&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+![TeamCity](https://img.shields.io/badge/-TeamCity-000000?logo=teamcity&logoColor=white&style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
+
+---
+
+### GitHub Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuragshettigar&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragshettigar&layout=compact&theme=radical)
+
+---
+
+### Let's Connect!
+
+- 📧 [Email](mailto:anuragas09@gmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/anurag-shettigar)
