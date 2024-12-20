@@ -29,7 +29,7 @@
 ### GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats-anoteros09.vercel.app/api?username=anoteros09&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anoteros09&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-anoteros09.vercel.app/api/top-langs/?username=anoteros09&layout=compact&theme=radical)
 
 ---
 
