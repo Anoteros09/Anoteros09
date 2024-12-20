@@ -7,6 +7,7 @@
 ### About Me
 
 - 💻 I’m currently working on resource planning applications for airline operations.
+- [Next.js](https://img.shields.io/badge/-nextjs?logo=nextdotjs&color=black) I'm currently learning Next.js V15 for building a FullStack Application
 - 🌱 I’m learning advanced Julia optimizations and Japanese 🇯🇵.
 - 🏆 Fun fact: I improved operational efficiency by 15% at United Airlines.
 
